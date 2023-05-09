@@ -1,0 +1,5 @@
+rootProject.name = 'ru.netology.javacore.hw1.4.2_AssemblyOfProjects.Gradle'
+include 'api'
+include 'db'
+include 'service'
+
